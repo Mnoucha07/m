@@ -131,6 +131,7 @@ body {
 
   .remember-forget  {
     align-items: center;
+    align-content: flex-start;
     gap: 10px;
     justify-content: space-between;
     display: flex;
@@ -140,3 +141,4 @@ body {
     font-size: 13px;
   }
 }
+
